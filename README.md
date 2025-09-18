@@ -5,7 +5,7 @@
 
 ## Objetivo
 <ul>
-  <li>O objetivo principal é implementar um algoritmo em C++ ou Python que calcule o caminho mais longo entre dois vértices (origem e destino) em um grafo. O "comprimento" de um caminho é definido como a soma dos pesos de suas arestas. Um caminho é considerado "simples" se não repete nenhum vértice.</li>
+  <li>O objetivo principal foi implementar um algoritmo em Python que calcule o caminho mais longo entre dois vértices (origem e destino) em um grafo. O "comprimento" de um caminho é definido como a soma dos pesos de suas arestas. Um caminho é considerado "simples" se não repete nenhum vértice.</li>
 </ul>
 
 ## Funcionalidades
